@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+ollama
+chromadb
+pypdf
+ddgs
+python-multipart
+mcp
